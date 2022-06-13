@@ -52,7 +52,7 @@
 <a href="https://heroku.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://www.adobe.com/products/illustrator" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="illustrator" width="30" height="30"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/vector-logo/312271/adobe-xd" alt="adobe-xd" width="30" height="30"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="adobe-xd" width="30" height="30"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="figma" width="30" height="30"/> </a> 
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" alt="phpstorm" width="30" height="30"/> </a>  
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
