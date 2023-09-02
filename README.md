@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sinandenizekinci" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="sinandenizekinci" height="30" width="30" /></a>
 <!--<a href="https://stackoverflow.com/users/x" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>-->
-<!-- <a href="https://medium.com/@denizekinci" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@denizekinci" height="30" width="40" /></a> -->
+<a href="https://medium.com/@sinandenizekinci" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@denizekinci" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/143058616352505856" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="143058616352505856" height="30" width="26" /></a>
 <a href="https://join.skype.com/invite/kPqWR3uPg8aL" target="blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/S/skype-icon-logo-62E333BBBA-seeklogo.com.png" alt="kPqWR3uPg8aL" height="30" width="30" /></a>
 <a href="https://t.me/sinandenizekinci" target="blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="sinandenizekinci" height="30" width="30" /></a>
