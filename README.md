@@ -5,11 +5,11 @@
   
 - 🌱 I’m currently working with **React.js, Vue.js and anything related with JavaScript.**
 
-- 🚀 My personal page [https://sinandenizekinci.com](https://sinandenizekinci.com)
+- 🚀 My personal page [https://denizekinci.dev](https://denizekinci.dev)
 
 - 💬 Ask me about **JavaScript, CSS and Vue.js, Php, Laravel.**
 
-- 📫 How to reach me **deniz.ekinci.dev@gmail.com** or **contact@sinandenizekinci.com**
+- 📫 How to reach me **deniz.ekinci.dev@gmail.com** or **hello@denizekinci.dev**
  </p>
 
 <h3 align="left">Connect with me:</h3>
