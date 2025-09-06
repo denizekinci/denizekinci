@@ -26,10 +26,10 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
 </a>
 <a href="https://medium.com/@sinandenizekinci" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="30" width="30" />
+  <img align="center" src="https://logo.svgcdn.com/l/medium.svg" alt="Medium" height="30" width="30" />
 </a>
 <a href="https://discordapp.com/users/143058616352505856" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="30" width="30" />
+  <img align="center" src="https://static.cdnlogo.com/logos/d/52/discord.svg" alt="Discord" height="30" width="30" />
 </a>
 <a href="https://t.me/sinandenizekinci" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
@@ -110,7 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="30" height="30"/>
 </a>
 <a href="https://asana.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" height="30" width="30" />
+  <img align="center" src="https://logo.svgcdn.com/l/asana.svg" alt="Asana" height="30" width="30" />
 </a>
 <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
