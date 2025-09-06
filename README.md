@@ -110,7 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="30" height="30"/>
 </a>
 <a href="https://asana.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="asana" width="30" height="30"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" height="30" width="30" />
 </a>
 <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
@@ -137,7 +137,8 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizekinci&show_icons=true&theme=radical&locale=en&layout=compact" alt="denizekinci" />
 </p>
-
+<!--
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=denizekinci&show_icons=true&theme=dark&locale=en" alt="denizekinci" width="50%" />
 </p>
+-->
