@@ -2,18 +2,10 @@
 <h3 align="center">Backend & Full-Stack Engineer | Specialized in Laravel & Go</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sinandenizekinci" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://denizekinci.dev" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://medium.com/@sinandenizekinci" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Medium-121013?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:hello@denizekinci.dev">
-    <img src="https://img.shields.io/badge/Email-hello%40denizekinci.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/sinandenizekinci" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://denizekinci.dev" target="_blank"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://medium.com/@sinandenizekinci" target="_blank"><img src="https://img.shields.io/badge/Medium-121013?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:hello@denizekinci.dev"><img src="https://img.shields.io/badge/Email-hello%40denizekinci.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
